@@ -17,11 +17,11 @@ The primary features of analysis is the variation over time and across categorie
 
 The dataset is an integration of:
 1. **The Uppsala Conflict Data Program Data Files**: the world’s main provider of data on organized violence and armed conflicts. The files used are:
->- UCDP Georeferenced Event Dataset Global version 18.1
->- UCDP One-sided Violence Dataset
->- UCDP/PRIO Armed Conflict Dataset version 18.1
->- UCDP Dyadic Dataset version 18.1
->- UCDP Conflict Termination Dataset version 2-2015
+- UCDP Georeferenced Event Dataset Global version 18.1
+- UCDP One-sided Violence Dataset
+- UCDP/PRIO Armed Conflict Dataset version 18.1
+- UCDP Dyadic Dataset version 18.1
+- UCDP Conflict Termination Dataset version 2-2015
 <br>
 2. **Non-State Actor Dataset**: provides information on the military capabilities and politicalopportunities available to non-state actors in on-going civil wars. It is a direct expansion of the Uppsala Armed Conflict Data.
 <br>
@@ -55,5 +55,5 @@ The number of dyads will therefore exceed the number of conflicts.
     
 
 **Note:**
->While the dataset ranges from 1946-2017 only data for state based conflicts dates back to 1946. The recording of non-state and one-sided conflicts begins as of 1989. Comparisons across conflict types will therefore be restricted between 1989 to 2017.
+While the dataset ranges from 1946-2017 only data for state based conflicts dates back to 1946. The recording of non-state and one-sided conflicts begins as of 1989. Comparisons across conflict types will therefore be restricted between 1989 to 2017.
 
