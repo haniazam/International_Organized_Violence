@@ -12,6 +12,7 @@ The primary features of analysis is the variation over time and across categorie
 4. the effect of rebel ideology, goal, religious affiliation and external support on conflict outcomes as well as variations in the frequency of outcome types
 <br>
 <br>
+
 ## Dataset Overview
 
 The dataset is an integration of:
@@ -30,6 +31,7 @@ The dataset is an integration of:
 The features of the dataset are characteristics of the dyad in each year the dyad is active (i.e. results in 25 or more battle related deaths). These characteristics include the type of conflict, the parties involved, the location of the conflict, the ideology, religious affiliation and goal of the rebel group involved.
 <br>
 <br>
+
 ## Terminology
 
 **Conflicts vs Dyads:**
