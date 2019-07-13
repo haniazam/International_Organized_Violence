@@ -28,7 +28,7 @@ The dataset is an integration of
 2. [Non-State Actor Dataset](http://ksgleditsch.com/eacd.html): provides information on the military capabilities and politicalopportunities available to non-state actors in on-going civil wars. It is a direct expansion of the Uppsala Armed Conflict Data.
 <br>
 
-3. [The Foundations of Rebel Group Emergence Dataset](https://www.jessicamaves.com/forge.html): provides information onthe origins of violent non-state actors engaged in armed conflict against their government. It draws upon the population of groups included in the Non-State Actor Dataset.<
+3. [The Foundations of Rebel Group Emergence Dataset](https://www.jessicamaves.com/forge.html): provides information onthe origins of violent non-state actors engaged in armed conflict against their government. It draws upon the population of groups included in the Non-State Actor Dataset.
 <br>
 <br>
 The features of the dataset are characteristics of the dyad in each year the dyad is active (i.e. results in 25 or more battle related deaths). These characteristics include the type of conflict, the parties involved, the location of the conflict, the ideology, religious affiliation and goal of the rebel group involved.
