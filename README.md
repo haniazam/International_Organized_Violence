@@ -45,7 +45,6 @@ The features of the dataset are characteristics of the dyad in each year the dya
 However, these *three dyads* are recorded as a *single conflict*. Conflicts are viewed through the lens of the targeted actor - in this case the Government of Bolivia.
 
 The number of dyads will therefore exceed the number of conflicts.
-
 <br>
 <br>
 
@@ -54,8 +53,7 @@ There are three types of conflicts:
 1. State-based conflict: dyad involves two actors (with one or more being the government) that have a stated incompatibility
 2. Non-state conflict: dyad is constructed by at least two organized actors (of which none is the government of a state) that oppose each other with arms. 
 3. One-sided Events: involves not dyads but armed actors (a government or a formally organized non-state group) attacking the civilian population
-    
-
+   
 **Note**:
 While the dataset ranges from 1946-2017 only data for state based conflicts dates back to 1946. The recording of non-state and one-sided conflicts begins as of 1989. Comparisons across conflict types will therefore be restricted between 1989 to 2017.
 
