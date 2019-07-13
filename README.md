@@ -64,7 +64,7 @@ While the dataset ranges from 1946-2017 only data for state based conflicts date
 
 The goal of this exploratory analysis is to understand trends in each of these three types of conflicts as well as worldwide conflicts in general. 
 This includes:
->1. Understanding the how number of conflicts and fatalities have changed over time,
+1. Understanding the how number of conflicts and fatalities have changed over time,
 2. The ratio of new conflicts versus existing conflicts,
 3. The actors directly and indirectly involved in conflicts and 
 4. The effect of rebel ideology, goal, religious affiliation and external support on conflict outcomes as well as how changes in the explicit outcome itself contribute to the understanding the ontological and temporal characteristics of conflicts.
