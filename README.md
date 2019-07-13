@@ -23,8 +23,10 @@ The dataset is an integration of:
 - UCDP Dyadic Dataset version 18.1
 - UCDP Conflict Termination Dataset version 2-2015
 <br>
+
 2. **Non-State Actor Dataset**: provides information on the military capabilities and politicalopportunities available to non-state actors in on-going civil wars. It is a direct expansion of the Uppsala Armed Conflict Data.
 <br>
+
 3. **The Foundations of Rebel Group Emergence Dataset**: provides information onthe origins of violent non-state actors engaged in armed conflict against their government. It draws upon the population of groups included in the Non-State Actor Dataset.<
 <br>
 <br>
@@ -47,7 +49,7 @@ The number of dyads will therefore exceed the number of conflicts.
 <br>
 <br>
 
-**Conflicts Types**L
+**Conflicts Types** :
 There are three types of conflicts:
 1. State-based conflict: dyad involves two actors (with one or more being the government) that have a stated incompatibility
 2. Non-state conflict: dyad is constructed by at least two organized actors (of which none is the government of a state) that oppose each other with arms. 
